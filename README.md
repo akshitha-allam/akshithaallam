@@ -30,13 +30,6 @@ Even though I explore multiple domains, my heart belongs to **AI & Data Science*
 
 ---
 
-## 📊 GitHub Stats  
-![Akshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshithaallam&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshithaallam&layout=compact&theme=radical)  
-
----
-
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshithaall)  
